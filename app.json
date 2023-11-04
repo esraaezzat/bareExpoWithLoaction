@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "bareApp",
+    "slug": "bareApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
